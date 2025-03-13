@@ -1,0 +1,7 @@
+{
+    "name": "Hash Scan",
+    "version": "1.0.0",
+    "author": "D",
+    "button_text": "\uD83D\uDD0E Verify Hash",
+    "description": "Verifies file hashes using VirusTotal."
+}

@@ -1,0 +1,7 @@
+{
+    "name": "IP Scan",
+    "version": "1.0.0",
+    "author": "C",
+    "button_text": "\uD83C\uDF0D Check IP",
+    "description": "Checks IP addresses for threats using VirusTotal."
+}

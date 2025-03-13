@@ -1,0 +1,7 @@
+{
+    "name": "Domain Scan",
+    "version": "1.0.0",
+    "author": "E",
+    "button_text": "\uD83D\uDDA5\uFE0F Check Domain",
+    "description": "Scans domains for threats using VirusTotal."
+}

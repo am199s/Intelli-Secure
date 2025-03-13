@@ -1,0 +1,7 @@
+{
+    "name": "URL Scan",
+    "version": "1.0.0",
+    "author": "A",
+    "button_text": "\uD83D\uDD17 Scan URL",
+    "description": "Scans URLs for potential threats using VirusTotal."
+}

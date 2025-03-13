@@ -1,0 +1,7 @@
+{
+    "name": "File Scan",
+    "version": "1.0.0",
+    "author": "B",
+    "button_text": "\uD83D\uDCC2 Scan File",
+    "description": "Scans uploaded files for threats using VirusTotal."
+}
